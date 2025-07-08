@@ -3,3 +3,5 @@
     I am also using createInterval for ticking the timer and using clearInterval to pause the timer
 # This is functional based application
     Hook used: useRef, useState
+
+#   In this application we are using single buttoon to toggle Start/ Pause
